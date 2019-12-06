@@ -7,8 +7,8 @@
         <div class="col-md-8 col-md-offset-2">
           <form class="form-horizontal row">
             <div class="col-md-4">
-              <!-- <el-input v-model="inputvalue" size="small" class="search" placeholder="请输入内容"></el-input>
-              <el-button type="small" @click="search(inputvalue)">搜索</el-button>-->
+              <el-input v-model="inputvalue" size="small" class="search" placeholder="请输入内容"></el-input>
+              <el-button type="small" @click="search(inputvalue)">搜索</el-button>
               <div class="checkbox">
                 <label>
                   <el-switch v-model="horizontal" active-text="水平" inactive-text="垂直"></el-switch>
