@@ -2,6 +2,26 @@
   <div class="container">
     <h1 class="head">博洋服饰组织架构</h1>
     <el-button type="primary" @click="down()" class="download">下载excel</el-button>
+    <el-button type="primary" @click="log"  class="Journal">查看日志</el-button>
+    <el-button type="primary" @click="extable"  class="extable">excel表格</el-button>
+    <!-- <el-table
+      :data="listLog"
+      style="width: 100%">
+      <el-table-column
+        prop="id"
+        label="日期"
+        width="180">
+      </el-table-column>
+      <el-table-column
+        prop="appType"
+        label="姓名"
+        width="180">
+      </el-table-column>
+      <el-table-column
+        prop="appDetail"
+        label="地址">
+      </el-table-column>
+    </el-table>-->
     <div class="col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
@@ -34,6 +54,23 @@
                 </label>
               </div>
             </div>
+            <!-- 主题 -->
+            <!-- <div class="col-md-6">
+                <div class="form-group">
+                  <label class="control-label col-md-5">labelClassName:</label>
+                  <div class="col-md-7">
+                    <select class="form-control" v-model="labelClassName">
+                      <option value="bg-white">bg-white</option>
+                      <option value="bg-orange">bg-orange</option>
+                      <option value="bg-gold">bg-gold</option>
+                      <option value="bg-gray">bg-gray</option>
+                      <option value="bg-lightpink">bg-lightpink</option>
+                      <option value="bg-chocolate">bg-chocolate</option>
+                      <option value="bg-tomato">bg-tomato</option>
+                    </select>
+                  </div>
+                </div>
+            </div>-->
           </form>
         </div>
       </div>
@@ -46,6 +83,9 @@
           :horizontal="horizontal"
           :collapsable="collapsable"
           :render-content="renderContent"
+          :label-class-name="labelClass"
+          :selectedKey="selectedKey"
+          :selected-class-name="selectedClassName"
           @on-expand="onExpand"
           @on-node-click="onNodeClick"
         />
@@ -55,7 +95,7 @@
 </template>
 
 <script>
-import axios from "axios"; // 导入我们的api接口
+import axios from "axios";
 
 export default {
   name: "HelloWorld",
@@ -65,28 +105,56 @@ export default {
       horizontal: false,
       collapsable: true,
       expandAll: false,
-      inputvalue: ""
+      inputvalue: "",
+      selectedKey: "",
+      selectedClassName: "red",
+      listLog: ""
     };
   },
   created() {
     this.getListData();
+   
   },
   methods: {
-    search(val) {
-      console.log(this.data.deptName);
-      if (val == this.data.deptName) {
-        alert(1);
+    search(value) {
+      let pathList = treeFindPath(this.data.children, data =>
+        data.deptName.includes(value)
+      );
+      pathList.forEach(list => {
+        list.forEach(node => this.$set(node, "expand", true));
+      });
+      function treeFindPath(tree, func, path = [], result = []) {
+        for (const data of tree) {
+          path.push(data);
+          func(data) && result.push([...path]);
+          data.children && treeFindPath(data.children, func, path, result);
+          path.pop();
+        }
+        return result;
       }
     },
+    labelClass(data) {
+      if (this.inputvalue == "") {
+        return "";
+      }
+      return data.deptName.includes(this.inputvalue) ? "highlight" : "";
+    },
+
     //拉取初始结构树数据
     getListData() {
       var that = this;
-      axios
-        .get("http://20.28.10.111:8883/organizational/orgDept/getDeptData")
-        .then(res => {
-          that.data = res.data.data;
-          console.log(that.data);
-        });
+      axios.get("http://20.28.10.111:8883/organizational/orgDept/getDeptData").then(res => {
+        that.data = res.data.data;
+        console.log(that.data, 1);
+      });
+    },
+   
+    // 查看日志弹窗
+    log() {
+      this.$router.push("log");
+    },
+    extable() {
+      this.$router.push("table");
     },
     //excel下载接口调用
     down() {
@@ -167,29 +235,74 @@ export default {
 </script>
 
 <style scoped lang="less">
-.head {
-  text-align: left;
-  font-size: 30px;
-  box-shadow: 0px 11px 10px #eee;
-  padding: 0 0 15px 20px;
+.org-tree-node-label {
+  white-space: nowrap;
 }
-.download {
-  position: absolute;
-  top: 20px;
-  right: 20px;
+/deep/ .bg-white {
+  background-color: #a7b6d7;
 }
-/deep/ .org-tree-node-label .org-tree-node-label-inner {
-  background: #a7b6d7;
+/deep/ .bg-orange {
+  background-color: orange;
 }
-/deep/ .form-horizontal {
-  text-align: left;
-  margin: 20px 0 0 20px;
-  .search {
-    width: 200px;
-    margin-right: 10px;
+/deep/ .bg-gold {
+  background-color: gold;
+}
+/deep/ .bg-gray {
+  background-color: gray;
+}
+/deep/ .bg-lightpink {
+  background-color: lightpink;
+}
+/deep/ .bg-chocolate {
+  background-color: chocolate;
+}
+/deep/ .bg-tomato {
+  background-color: tomato;
+}
+
+/deep/ .highlight {
+  color: #fff;
+  background: orange !important;
+}
+.container {
+  .head {
+    text-align: left;
+    font-size: 30px;
+    box-shadow: 0px 11px 10px #eee;
+    padding: 0 0 15px 20px;
   }
-  .el-switch {
-    margin-top: 10px;
+  .download {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+  .Journal {
+    position: absolute;
+    top: 20px;
+    right: 150px;
+  }
+   .extable {
+    position: absolute;
+    top: 20px;
+    right: 280px;
+  }
+  /deep/ .org-tree-node-label .org-tree-node-label-inner {
+    background: #a7b6d7;
+    span {
+      display: inline-block;
+      color: red;
+    }
+  }
+  /deep/ .form-horizontal {
+    text-align: left;
+    margin: 20px 0 0 20px;
+    .search {
+      width: 200px;
+      margin-right: 10px;
+    }
+    .el-switch {
+      margin-top: 10px;
+    }
   }
 }
 </style>

@@ -1,0 +1,3136 @@
+{
+    "code": "0",
+    "msg": "",
+    "data": {
+        "id": "1",
+        "deptName": "宁波博洋服饰集团有限公司",
+        "pid": "",
+        "parentName": "",
+        "children": [
+            {
+                "id": "19489258",
+                "deptName": "唐狮服饰",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "19908038",
+                        "deptName": "唐狮总经理室",
+                        "selectKey":"唐ss",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19850039",
+                        "deptName": "唐狮总经办",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19919039",
+                        "deptName": "唐狮快单组",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19883024",
+                        "deptName": "唐狮商品项目组",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19467324",
+                        "deptName": "唐狮人力资源部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19474252",
+                        "deptName": "唐狮信息管理部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19923033",
+                        "deptName": "唐狮行政部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19939022",
+                        "deptName": "唐狮结算部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19914029",
+                        "deptName": "唐狮形象推广部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19935023",
+                        "deptName": "唐狮商品管理部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19889041",
+                        "deptName": "唐狮销售办公室",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19893007",
+                        "deptName": "唐狮加盟一区",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [
+                            {
+                                "id": "19893015",
+                                "deptName": "唐狮加盟一区办公室",
+                                "pid": "19893007",
+                                "parentName": "唐狮加盟一区",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "19882021",
+                                "deptName": "唐狮上海市场部",
+                                "pid": "19893007",
+                                "parentName": "唐狮加盟一区",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "19893016",
+                                "deptName": "唐狮江苏分公司",
+                                "pid": "19893007",
+                                "parentName": "唐狮加盟一区",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "19919046",
+                                "deptName": "唐狮湖南市场部",
+                                "pid": "19893007",
+                                "parentName": "唐狮加盟一区",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "19941029",
+                                "deptName": "唐狮江西市场部",
+                                "pid": "19893007",
+                                "parentName": "唐狮加盟一区",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "19937009",
+                        "deptName": "唐狮加盟南区",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [
+                            {
+                                "id": "19917037",
+                                "deptName": "唐狮加盟南区办公室",
+                                "pid": "19937009",
+                                "parentName": "唐狮加盟南区",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "19931034",
+                                "deptName": "唐狮温州市场部",
+                                "pid": "19937009",
+                                "parentName": "唐狮加盟南区",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "62636021",
+                                "deptName": "南区客户",
+                                "pid": "19937009",
+                                "parentName": "唐狮加盟南区",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "19874053",
+                        "deptName": "唐狮加盟北区",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [
+                            {
+                                "id": "19930041",
+                                "deptName": "唐狮加盟北区办公室",
+                                "pid": "19874053",
+                                "parentName": "唐狮加盟北区",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "19939025",
+                                "deptName": "唐狮北京市场部",
+                                "pid": "19874053",
+                                "parentName": "唐狮加盟北区",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "19885027",
+                        "deptName": "唐狮西安分公司",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19861069",
+                        "deptName": "唐狮直营办公室",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19917034",
+                        "deptName": "唐狮宁波公司",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19915045",
+                        "deptName": "唐狮山东公司",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19879042",
+                        "deptName": "唐狮杭州分公司",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19881030",
+                        "deptName": "唐狮天津市场部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19850040",
+                        "deptName": "唐狮成都分公司",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19931028",
+                        "deptName": "唐狮武汉分公司",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19907052",
+                        "deptName": "唐狮商品计划中心办公室",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19885028",
+                        "deptName": "唐狮商品计划管理部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19891015",
+                        "deptName": "唐狮面辅料管理部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19935029",
+                        "deptName": "生产一部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [
+                            {
+                                "id": "19876018",
+                                "deptName": "生产一部办公室",
+                                "pid": "19935029",
+                                "parentName": "生产一部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "19868038",
+                                "deptName": "梭织业务部",
+                                "pid": "19935029",
+                                "parentName": "生产一部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "19939024",
+                                "deptName": "针织业务部",
+                                "pid": "19935029",
+                                "parentName": "生产一部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "19866038",
+                                "deptName": "快单项目组",
+                                "pid": "19935029",
+                                "parentName": "生产一部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "35464300",
+                                "deptName": "毛织业务部",
+                                "pid": "19935029",
+                                "parentName": "生产一部",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "19877041",
+                        "deptName": "生产二部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19930015",
+                        "deptName": "唐狮中山分公司",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "28743148",
+                        "deptName": "唐狮人才储备园",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "31316100",
+                        "deptName": "唐狮浙江区办公室",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "56685567",
+                        "deptName": "唐狮宁波女装设计部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "58050029",
+                        "deptName": "唐狮品牌推广部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "58544041",
+                        "deptName": "唐狮陈列部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "77940159",
+                        "deptName": "唐狮新品开发部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "82438763",
+                        "deptName": "唐狮M事业部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "87660005",
+                        "deptName": "测试部门",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "93746046",
+                        "deptName": "唐狮宁波男装设计部",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "106061101",
+                        "deptName": "唐狮中山新项目组",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "106101176",
+                        "deptName": "唐狮生产统筹办公室",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "117398594",
+                        "deptName": "DESSO项目组",
+                        "pid": "19489258",
+                        "parentName": "唐狮服饰",
+                        "children": [],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "19847032",
+                "deptName": "上海唐莱",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "19906039",
+                        "deptName": "唐莱产品办公室",
+                        "pid": "19847032",
+                        "parentName": "上海唐莱",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19859064",
+                        "deptName": "唐莱男装设计部",
+                        "pid": "19847032",
+                        "parentName": "上海唐莱",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "19922020",
+                        "deptName": "唐莱技术部",
+                        "pid": "19847032",
+                        "parentName": "上海唐莱",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "39032046",
+                        "deptName": "唐莱女装线上设计部",
+                        "pid": "19847032",
+                        "parentName": "上海唐莱",
+                        "children": [],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "20481253",
+                "deptName": "服饰总部",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "20452293",
+                        "deptName": "服饰总经理室",
+                        "pid": "20481253",
+                        "parentName": "服饰总部",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "20454214",
+                        "deptName": "服饰总经办",
+                        "pid": "20481253",
+                        "parentName": "服饰总部",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "61893419",
+                        "deptName": "博服商学院",
+                        "pid": "20481253",
+                        "parentName": "服饰总部",
+                        "children": [
+                            {
+                                "id": "61893420",
+                                "deptName": "办公室",
+                                "pid": "61893419",
+                                "parentName": "博服商学院",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "61910383",
+                                "deptName": "优才部",
+                                "pid": "61893419",
+                                "parentName": "博服商学院",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "20490244",
+                        "deptName": "服饰采购管控中心",
+                        "pid": "20481253",
+                        "parentName": "服饰总部",
+                        "children": [
+                            {
+                                "id": "63236030",
+                                "deptName": "服饰质量管控中心",
+                                "pid": "20490244",
+                                "parentName": "服饰采购管控中心",
+                                "children": [
+                                    {
+                                        "id": "20486366",
+                                        "deptName": "服饰品控部",
+                                        "pid": "63236030",
+                                        "parentName": "服饰质量管控中心",
+                                        "children": [],
+                                        "expand": false
+                                    },
+                                    {
+                                        "id": "69419133",
+                                        "deptName": "服饰检测中心",
+                                        "pid": "63236030",
+                                        "parentName": "服饰质量管控中心",
+                                        "children": [],
+                                        "expand": false
+                                    }
+                                ],
+                                "expand": false
+                            },
+                            {
+                                "id": "63250016",
+                                "deptName": "服饰采购管理中心",
+                                "pid": "20490244",
+                                "parentName": "服饰采购管控中心",
+                                "children": [
+                                    {
+                                        "id": "20461203",
+                                        "deptName": "服饰供应商管理部",
+                                        "pid": "63250016",
+                                        "parentName": "服饰采购管理中心",
+                                        "children": [],
+                                        "expand": false
+                                    },
+                                    {
+                                        "id": "20478283",
+                                        "deptName": "服饰稽核部",
+                                        "pid": "63250016",
+                                        "parentName": "服饰采购管理中心",
+                                        "children": [],
+                                        "expand": false
+                                    },
+                                    {
+                                        "id": "56431485",
+                                        "deptName": "服饰面辅料开发部",
+                                        "pid": "63250016",
+                                        "parentName": "服饰采购管理中心",
+                                        "children": [],
+                                        "expand": false
+                                    }
+                                ],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "105698091",
+                        "deptName": "Radiohead事业部",
+                        "pid": "20481253",
+                        "parentName": "服饰总部",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "125372531",
+                        "deptName": "服饰财务中心",
+                        "pid": "20481253",
+                        "parentName": "服饰总部",
+                        "children": [
+                            {
+                                "id": "20455246",
+                                "deptName": "服饰财务中心办公室",
+                                "pid": "125372531",
+                                "parentName": "服饰财务中心",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "20393247",
+                                "deptName": "服饰会计核算部",
+                                "pid": "125372531",
+                                "parentName": "服饰财务中心",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "20432272",
+                                "deptName": "服饰审计部",
+                                "pid": "125372531",
+                                "parentName": "服饰财务中心",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "20474219",
+                                "deptName": "服饰资金结算部",
+                                "pid": "125372531",
+                                "parentName": "服饰财务中心",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "125559367",
+                                "deptName": "服饰财务管理部",
+                                "pid": "125372531",
+                                "parentName": "服饰财务中心",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "20544044",
+                "deptName": "集团总部",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "20552026",
+                        "deptName": "集团信息中心",
+                        "pid": "20544044",
+                        "parentName": "集团总部",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "115648011",
+                        "deptName": "集团财务管理中心",
+                        "pid": "20544044",
+                        "parentName": "集团总部",
+                        "children": [],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "20925777",
+                "deptName": "GUKOO",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "21015884",
+                        "deptName": "GUKOO总经办",
+                        "pid": "20925777",
+                        "parentName": "GUKOO",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "21010764",
+                        "deptName": "GUKOO设计部",
+                        "pid": "20925777",
+                        "parentName": "GUKOO",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "20968764",
+                        "deptName": "GUKOO生产部",
+                        "pid": "20925777",
+                        "parentName": "GUKOO",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "20930921",
+                        "deptName": "GUKOO综合管理部",
+                        "pid": "20925777",
+                        "parentName": "GUKOO",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "20986756",
+                        "deptName": "GUKOO运营部",
+                        "pid": "20925777",
+                        "parentName": "GUKOO",
+                        "children": [
+                            {
+                                "id": "20943747",
+                                "deptName": "GUKOO运营部办公室",
+                                "pid": "20986756",
+                                "parentName": "GUKOO运营部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "20986757",
+                                "deptName": "GUKOO运营部企划组",
+                                "pid": "20986756",
+                                "parentName": "GUKOO运营部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "20925778",
+                                "deptName": "GUKOO第三方运营组",
+                                "pid": "20986756",
+                                "parentName": "GUKOO运营部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "22943854",
+                                "deptName": "GUKOO运营部客服组",
+                                "pid": "20986756",
+                                "parentName": "GUKOO运营部",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "21010765",
+                        "deptName": "GUKOO YSO运营部",
+                        "pid": "20925777",
+                        "parentName": "GUKOO",
+                        "children": [
+                            {
+                                "id": "48422187",
+                                "deptName": "GUKOO YSO设计组",
+                                "pid": "21010765",
+                                "parentName": "GUKOO YSO运营部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "48492237",
+                                "deptName": "GUKOO YSO运营组",
+                                "pid": "21010765",
+                                "parentName": "GUKOO YSO运营部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "48824119",
+                                "deptName": "GUKOO YSO唯品会组",
+                                "pid": "21010765",
+                                "parentName": "GUKOO YSO运营部",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "44282318",
+                        "deptName": "GUKOO物流部",
+                        "pid": "20925777",
+                        "parentName": "GUKOO",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "70192790",
+                        "deptName": "GUKOO宁波市场部",
+                        "pid": "20925777",
+                        "parentName": "GUKOO",
+                        "children": [
+                            {
+                                "id": "70192791",
+                                "deptName": "鄞州万达店",
+                                "pid": "70192790",
+                                "parentName": "GUKOO宁波市场部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "107661687",
+                                "deptName": "东门银泰店",
+                                "pid": "70192790",
+                                "parentName": "GUKOO宁波市场部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "111391834",
+                                "deptName": "杭州武林银泰店",
+                                "pid": "70192790",
+                                "parentName": "GUKOO宁波市场部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "112388659",
+                                "deptName": "鄞州万达银泰店",
+                                "pid": "70192790",
+                                "parentName": "GUKOO宁波市场部",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "20947198",
+                "deptName": "嘉兴物流",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "20943248",
+                        "deptName": "嘉兴物流物业管理部",
+                        "pid": "20947198",
+                        "parentName": "嘉兴物流",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "20943249",
+                        "deptName": "嘉兴物流唐狮实体",
+                        "pid": "20947198",
+                        "parentName": "嘉兴物流",
+                        "children": [
+                            {
+                                "id": "20953275",
+                                "deptName": "嘉兴物流唐狮实体办公室",
+                                "pid": "20943249",
+                                "parentName": "嘉兴物流唐狮实体",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "21022248",
+                                "deptName": "嘉兴物流唐狮一线",
+                                "pid": "20943249",
+                                "parentName": "嘉兴物流唐狮实体",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "21011224",
+                        "deptName": "嘉兴物流电商物流",
+                        "pid": "20947198",
+                        "parentName": "嘉兴物流",
+                        "children": [
+                            {
+                                "id": "20952194",
+                                "deptName": "嘉兴物流电商物流一线",
+                                "pid": "21011224",
+                                "parentName": "嘉兴物流电商物流",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "21020322",
+                                "deptName": "嘉兴物流电商物流办公室",
+                                "pid": "21011224",
+                                "parentName": "嘉兴物流电商物流",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "22101813",
+                "deptName": "宿州制衣",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [],
+                "expand": false
+            },
+            {
+                "id": "23122204",
+                "deptName": "唐狮网络",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "85029206",
+                        "deptName": "唐狮网络总经理室",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23109137",
+                        "deptName": "唐狮网络总经办",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23243051",
+                        "deptName": "唐狮网络大淘宝",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23187146",
+                        "deptName": "唐狮网络唐狮果壳",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23201133",
+                        "deptName": "唐狮网络唯品会",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23200208",
+                        "deptName": "唐狮网络产品中心",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [
+                            {
+                                "id": "23099117",
+                                "deptName": "唐狮网络计划部",
+                                "pid": "23200208",
+                                "parentName": "唐狮网络产品中心",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "23157174",
+                                "deptName": "唐狮网络生产部",
+                                "pid": "23200208",
+                                "parentName": "唐狮网络产品中心",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "23185115",
+                                "deptName": "唐狮网络设计部",
+                                "pid": "23200208",
+                                "parentName": "唐狮网络产品中心",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "23238026",
+                        "deptName": "唐狮网络客服中心",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [
+                            {
+                                "id": "80527344",
+                                "deptName": "涉趣客服",
+                                "pid": "23238026",
+                                "parentName": "唐狮网络客服中心",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "23252045",
+                        "deptName": "唐狮网络第三方",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23154176",
+                        "deptName": "唐狮网络摄影部",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "59634202",
+                        "deptName": "战略发展部",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "28471665",
+                        "deptName": "华尔思丹事业部",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "37865080",
+                        "deptName": "yoe",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "29399947",
+                        "deptName": "合圣世纪",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "39050047",
+                        "deptName": "DESSO男装事业部",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23245046",
+                        "deptName": "唐狮网络TNTEE",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23099118",
+                        "deptName": "唐狮网络特卖部",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23185116",
+                        "deptName": "唐狮网络稽核结算部",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23232042",
+                        "deptName": "唐狮网络IT数据部",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23256059",
+                        "deptName": "唐狮网络行政人事部",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "55689072",
+                        "deptName": "唐狮网络技术部",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "59710497",
+                        "deptName": "互联网新模型研究小组",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "74463968",
+                        "deptName": "唐狮电商后勤部",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "120764688",
+                        "deptName": "数据管理部",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "120808742",
+                        "deptName": "拍摄企划部",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "124338020",
+                        "deptName": "其他部门",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "141164433",
+                        "deptName": "商品计划部",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "147954617",
+                        "deptName": "唐狮内衣",
+                        "pid": "23122204",
+                        "parentName": "唐狮网络",
+                        "children": [],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "23185055",
+                "deptName": "德玛纳瑞品服饰",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "23218078",
+                        "deptName": "德玛纳瑞品总经理室",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23108074",
+                        "deptName": "德玛纳瑞品人力行政部",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23205079",
+                        "deptName": "德玛纳瑞品设计部",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23204087",
+                        "deptName": "德玛纳瑞品商品计划部",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23119085",
+                        "deptName": "德玛纳瑞品生产部",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [
+                            {
+                                "id": "56780560",
+                                "deptName": "德玛纳瑞品物流后道车间",
+                                "pid": "23119085",
+                                "parentName": "德玛纳瑞品生产部",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "23093115",
+                        "deptName": "德玛纳瑞品企划部",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23105069",
+                        "deptName": "德玛纳瑞品物流部",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23203065",
+                        "deptName": "德玛纳瑞品京东天猫事业部",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23203066",
+                        "deptName": "德玛纳瑞品实体事业部",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23221059",
+                        "deptName": "德玛纳瑞品社交电商事业部",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "56796595",
+                        "deptName": "德玛纳瑞品结算部",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "56825494",
+                        "deptName": "德玛纳瑞品style",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [
+                            {
+                                "id": "130269246",
+                                "deptName": "德玛纳瑞品style总经理室",
+                                "pid": "56825494",
+                                "parentName": "德玛纳瑞品style",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "56870353",
+                                "deptName": "德玛纳style第三方",
+                                "pid": "56825494",
+                                "parentName": "德玛纳瑞品style",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "56853423",
+                                "deptName": "德玛纳style设计部",
+                                "pid": "56825494",
+                                "parentName": "德玛纳瑞品style",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "56878369",
+                                "deptName": "德玛纳style商品计划部",
+                                "pid": "56825494",
+                                "parentName": "德玛纳瑞品style",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "60685247",
+                                "deptName": "德玛纳瑞品style企划部",
+                                "pid": "56825494",
+                                "parentName": "德玛纳瑞品style",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "66593772",
+                                "deptName": "德玛纳style生产部",
+                                "pid": "56825494",
+                                "parentName": "德玛纳瑞品style",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "120911445",
+                                "deptName": "德玛纳瑞品男装",
+                                "pid": "56825494",
+                                "parentName": "德玛纳瑞品style",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "56835454",
+                        "deptName": "德玛纳瑞品总经办",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "56875331",
+                        "deptName": "德玛纳瑞品平面组",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "58426771",
+                        "deptName": "德玛纳瑞品物流",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "64799844",
+                        "deptName": "德玛纳瑞品饰品部",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "66634705",
+                        "deptName": "德玛纳瑞品面料部",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "66699858",
+                        "deptName": "德玛纳瑞品亲子事业部",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [
+                            {
+                                "id": "66589701",
+                                "deptName": "德玛纳瑞品亲子生产部",
+                                "pid": "66699858",
+                                "parentName": "德玛纳瑞品亲子事业部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "66592629",
+                                "deptName": "德玛纳瑞品亲子人力行政部",
+                                "pid": "66699858",
+                                "parentName": "德玛纳瑞品亲子事业部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "66632584",
+                                "deptName": "德玛纳瑞品亲子物流部",
+                                "pid": "66699858",
+                                "parentName": "德玛纳瑞品亲子事业部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "66633617",
+                                "deptName": "德玛纳瑞品亲子商品计划部",
+                                "pid": "66699858",
+                                "parentName": "德玛纳瑞品亲子事业部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "66642707",
+                                "deptName": "德玛纳瑞品亲子第三方",
+                                "pid": "66699858",
+                                "parentName": "德玛纳瑞品亲子事业部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "66644607",
+                                "deptName": "德玛纳瑞品亲子视觉部",
+                                "pid": "66699858",
+                                "parentName": "德玛纳瑞品亲子事业部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "66680728",
+                                "deptName": "德玛纳瑞品亲子大淘宝",
+                                "pid": "66699858",
+                                "parentName": "德玛纳瑞品亲子事业部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "66731635",
+                                "deptName": "德玛纳瑞品亲子面料部",
+                                "pid": "66699858",
+                                "parentName": "德玛纳瑞品亲子事业部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "66735544",
+                                "deptName": "德玛纳瑞品亲子设计部",
+                                "pid": "66699858",
+                                "parentName": "德玛纳瑞品亲子事业部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "66738593",
+                                "deptName": "德玛纳瑞品亲子平面部",
+                                "pid": "66699858",
+                                "parentName": "德玛纳瑞品亲子事业部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "66759642",
+                                "deptName": "德玛纳瑞品亲子结算部",
+                                "pid": "66699858",
+                                "parentName": "德玛纳瑞品亲子事业部",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "109868964",
+                        "deptName": "德玛纳瑞品唯品事业部",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "110143034",
+                        "deptName": "德玛纳瑞品技术科",
+                        "pid": "23185055",
+                        "parentName": "德玛纳瑞品服饰",
+                        "children": [],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "23462087",
+                "deptName": "艾夫斯电商女装",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "23511099",
+                        "deptName": "艾夫斯电商女装总经理室",
+                        "pid": "23462087",
+                        "parentName": "艾夫斯电商女装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23512136",
+                        "deptName": "艾夫斯电商女装总经办",
+                        "pid": "23462087",
+                        "parentName": "艾夫斯电商女装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23466125",
+                        "deptName": "艾夫斯电商女装设计部",
+                        "pid": "23462087",
+                        "parentName": "艾夫斯电商女装",
+                        "children": [
+                            {
+                                "id": "124746041",
+                                "deptName": "艾夫斯电商女装视觉部",
+                                "pid": "23466125",
+                                "parentName": "艾夫斯电商女装设计部",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "23474114",
+                        "deptName": "艾夫斯电商女装运营中心",
+                        "pid": "23462087",
+                        "parentName": "艾夫斯电商女装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23512138",
+                        "deptName": "艾夫斯电商女装大淘宝",
+                        "pid": "23462087",
+                        "parentName": "艾夫斯电商女装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23512139",
+                        "deptName": "艾夫斯电商女装物流部",
+                        "pid": "23462087",
+                        "parentName": "艾夫斯电商女装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23526120",
+                        "deptName": "艾夫斯电商女装生产部",
+                        "pid": "23462087",
+                        "parentName": "艾夫斯电商女装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23477117",
+                        "deptName": "艾夫斯电商女装商品计划部",
+                        "pid": "23462087",
+                        "parentName": "艾夫斯电商女装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "56857353",
+                        "deptName": "艾夫斯电商女装结算部",
+                        "pid": "23462087",
+                        "parentName": "艾夫斯电商女装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "56887296",
+                        "deptName": "艾夫斯电商女装人力行政部",
+                        "pid": "23462087",
+                        "parentName": "艾夫斯电商女装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "101310690",
+                        "deptName": "艾夫斯电商女装平面部",
+                        "pid": "23462087",
+                        "parentName": "艾夫斯电商女装",
+                        "children": [],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "23468222",
+                "deptName": "德玛纳jeans电商",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "23475233",
+                        "deptName": "德玛纳jeans电商经理室",
+                        "pid": "23468222",
+                        "parentName": "德玛纳jeans电商",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23464232",
+                        "deptName": "德玛纳jeans电商综合管理部",
+                        "pid": "23468222",
+                        "parentName": "德玛纳jeans电商",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23468223",
+                        "deptName": "德玛纳jeans电商生产部",
+                        "pid": "23468222",
+                        "parentName": "德玛纳jeans电商",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23476209",
+                        "deptName": "德玛纳jeans电商物流部",
+                        "pid": "23468222",
+                        "parentName": "德玛纳jeans电商",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23488216",
+                        "deptName": "德玛纳jeans电商运营中心",
+                        "pid": "23468222",
+                        "parentName": "德玛纳jeans电商",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "23523306",
+                        "deptName": "德玛纳jeans电商设计部",
+                        "pid": "23468222",
+                        "parentName": "德玛纳jeans电商",
+                        "children": [],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "28576182",
+                "deptName": "tonlion_kids",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "28575218",
+                        "deptName": "tonlion_kids总经理室",
+                        "pid": "28576182",
+                        "parentName": "tonlion_kids",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "30237560",
+                        "deptName": "tonlion_kids产品开发中心",
+                        "pid": "28576182",
+                        "parentName": "tonlion_kids",
+                        "children": [
+                            {
+                                "id": "147914862",
+                                "deptName": "男童组",
+                                "pid": "30237560",
+                                "parentName": "tonlion_kids产品开发中心",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "147818606",
+                                "deptName": "女童针织组",
+                                "pid": "30237560",
+                                "parentName": "tonlion_kids产品开发中心",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "147840757",
+                                "deptName": "女童梭织组",
+                                "pid": "30237560",
+                                "parentName": "tonlion_kids产品开发中心",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "147854538",
+                                "deptName": "核心产品组",
+                                "pid": "30237560",
+                                "parentName": "tonlion_kids产品开发中心",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "147924432",
+                                "deptName": "现货采购组",
+                                "pid": "30237560",
+                                "parentName": "tonlion_kids产品开发中心",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "146417403",
+                        "deptName": "tonlion_kids产品运营一组",
+                        "pid": "28576182",
+                        "parentName": "tonlion_kids",
+                        "children": [
+                            {
+                                "id": "147919466",
+                                "deptName": "打样组",
+                                "pid": "146417403",
+                                "parentName": "tonlion_kids产品运营一组",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "147938450",
+                                "deptName": "运营组",
+                                "pid": "146417403",
+                                "parentName": "tonlion_kids产品运营一组",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "146535457",
+                        "deptName": "tonlion_kids产品运营二组",
+                        "pid": "28576182",
+                        "parentName": "tonlion_kids",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "146476431",
+                        "deptName": "tonlion_kids产品运营三组",
+                        "pid": "28576182",
+                        "parentName": "tonlion_kids",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "30237563",
+                        "deptName": "tonlion_kids渠道运营部",
+                        "pid": "28576182",
+                        "parentName": "tonlion_kids",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "30237561",
+                        "deptName": "tonlion_kids企划部",
+                        "pid": "28576182",
+                        "parentName": "tonlion_kids",
+                        "children": [
+                            {
+                                "id": "147834735",
+                                "deptName": "平面设计组",
+                                "pid": "30237561",
+                                "parentName": "tonlion_kids企划部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "147811882",
+                                "deptName": "拍摄一组",
+                                "pid": "30237561",
+                                "parentName": "tonlion_kids企划部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "147823684",
+                                "deptName": "拍摄二组",
+                                "pid": "30237561",
+                                "parentName": "tonlion_kids企划部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "147862608",
+                                "deptName": "拍摄三组",
+                                "pid": "30237561",
+                                "parentName": "tonlion_kids企划部",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "30237562",
+                        "deptName": "tonlion_kids生产部",
+                        "pid": "28576182",
+                        "parentName": "tonlion_kids",
+                        "children": [
+                            {
+                                "id": "147901595",
+                                "deptName": "供应链评估小组",
+                                "pid": "30237562",
+                                "parentName": "tonlion_kids生产部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "147842584",
+                                "deptName": "面料组",
+                                "pid": "30237562",
+                                "parentName": "tonlion_kids生产部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "147861577",
+                                "deptName": "针织组",
+                                "pid": "30237562",
+                                "parentName": "tonlion_kids生产部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "147904561",
+                                "deptName": "梭织组",
+                                "pid": "30237562",
+                                "parentName": "tonlion_kids生产部",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "147933558",
+                                "deptName": "仓检组",
+                                "pid": "30237562",
+                                "parentName": "tonlion_kids生产部",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "48705594",
+                        "deptName": "tonlion_kids财务部",
+                        "pid": "28576182",
+                        "parentName": "tonlion_kids",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "146557380",
+                        "deptName": "tonlion_kids人力行政部",
+                        "pid": "28576182",
+                        "parentName": "tonlion_kids",
+                        "children": [],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "30651186",
+                "deptName": "优思缇服饰",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "30661160",
+                        "deptName": "优思缇服饰总经理室",
+                        "pid": "30651186",
+                        "parentName": "优思缇服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "60607203",
+                        "deptName": "优思缇结算部",
+                        "pid": "30651186",
+                        "parentName": "优思缇服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "60563204",
+                        "deptName": "优思缇人力行政部",
+                        "pid": "30651186",
+                        "parentName": "优思缇服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "62599269",
+                        "deptName": "优思缇商品计划部",
+                        "pid": "30651186",
+                        "parentName": "优思缇服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "62619217",
+                        "deptName": "优思缇企划部",
+                        "pid": "30651186",
+                        "parentName": "优思缇服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "62706225",
+                        "deptName": "优思缇第三方",
+                        "pid": "30651186",
+                        "parentName": "优思缇服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "30624170",
+                        "deptName": "优思缇生产部",
+                        "pid": "30651186",
+                        "parentName": "优思缇服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "60709190",
+                        "deptName": "优思缇设计部",
+                        "pid": "30651186",
+                        "parentName": "优思缇服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "62714988",
+                        "deptName": "优思缇物流部",
+                        "pid": "30651186",
+                        "parentName": "优思缇服饰",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "62683228",
+                        "deptName": "优思缇总经办",
+                        "pid": "30651186",
+                        "parentName": "优思缇服饰",
+                        "children": [],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "37020544",
+                "deptName": "艾夫斯电商男装",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "36985587",
+                        "deptName": "艾夫斯电商男装总经理室",
+                        "pid": "37020544",
+                        "parentName": "艾夫斯电商男装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "56764676",
+                        "deptName": "艾夫斯电商男装结算部",
+                        "pid": "37020544",
+                        "parentName": "艾夫斯电商男装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "101428898",
+                        "deptName": "艾夫斯电商男装平面部",
+                        "pid": "37020544",
+                        "parentName": "艾夫斯电商男装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "37000525",
+                        "deptName": "艾夫斯电商男装生产部",
+                        "pid": "37020544",
+                        "parentName": "艾夫斯电商男装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "37008543",
+                        "deptName": "艾夫斯电商男装运营中心",
+                        "pid": "37020544",
+                        "parentName": "艾夫斯电商男装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "37035569",
+                        "deptName": "艾夫斯电商男装物流部",
+                        "pid": "37020544",
+                        "parentName": "艾夫斯电商男装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "36959473",
+                        "deptName": "艾夫斯电商男装商品计划部",
+                        "pid": "37020544",
+                        "parentName": "艾夫斯电商男装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "36956567",
+                        "deptName": "艾夫斯电商男装设计部",
+                        "pid": "37020544",
+                        "parentName": "艾夫斯电商男装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "36989518",
+                        "deptName": "艾夫斯电商男装视觉部",
+                        "pid": "37020544",
+                        "parentName": "艾夫斯电商男装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "36991498",
+                        "deptName": "艾夫斯电商男装大淘宝",
+                        "pid": "37020544",
+                        "parentName": "艾夫斯电商男装",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "61035571",
+                        "deptName": "艾夫斯电商男装人力行政部",
+                        "pid": "37020544",
+                        "parentName": "艾夫斯电商男装",
+                        "children": [],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "52259535",
+                "deptName": "绎美风尚",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "52225964",
+                        "deptName": "绎美拍摄企划部",
+                        "pid": "52259535",
+                        "parentName": "绎美风尚",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "52235599",
+                        "deptName": "绎美生产采购",
+                        "pid": "52259535",
+                        "parentName": "绎美风尚",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "52240537",
+                        "deptName": "绎美大淘宝",
+                        "pid": "52259535",
+                        "parentName": "绎美风尚",
+                        "children": [
+                            {
+                                "id": "125193152",
+                                "deptName": "绎美运营",
+                                "pid": "52240537",
+                                "parentName": "绎美大淘宝",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "125219237",
+                                "deptName": "绎美客服",
+                                "pid": "52240537",
+                                "parentName": "绎美大淘宝",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "52263527",
+                        "deptName": "绎美唯品会",
+                        "pid": "52259535",
+                        "parentName": "绎美风尚",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "52243593",
+                        "deptName": "绎美物流部",
+                        "pid": "52259535",
+                        "parentName": "绎美风尚",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "52263525",
+                        "deptName": "绎美结算部",
+                        "pid": "52259535",
+                        "parentName": "绎美风尚",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "52258497",
+                        "deptName": "绎美设计开发",
+                        "pid": "52259535",
+                        "parentName": "绎美风尚",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "52241549",
+                        "deptName": "绎美人力行政部",
+                        "pid": "52259535",
+                        "parentName": "绎美风尚",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "52314053",
+                        "deptName": "绎美总经办",
+                        "pid": "52259535",
+                        "parentName": "绎美风尚",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "95778032",
+                        "deptName": "绎美货品管控组",
+                        "pid": "52259535",
+                        "parentName": "绎美风尚",
+                        "children": [],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "67097525",
+                "deptName": "唐狮终端",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "67082494",
+                        "deptName": "宁波终端",
+                        "pid": "67097525",
+                        "parentName": "唐狮终端",
+                        "children": [
+                            {
+                                "id": "67142455",
+                                "deptName": "宁波终端管理",
+                                "pid": "67082494",
+                                "parentName": "宁波终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "67072608",
+                                "deptName": "宁波终端员工",
+                                "pid": "67082494",
+                                "parentName": "宁波终端",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "69934105",
+                        "deptName": "山东终端",
+                        "pid": "67097525",
+                        "parentName": "唐狮终端",
+                        "children": [
+                            {
+                                "id": "70036104",
+                                "deptName": "山东终端管理",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "136839921",
+                                "deptName": "管培生",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90683874",
+                                "deptName": "济南洪楼银座专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90829653",
+                                "deptName": "济南万虹广场专卖",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90739722",
+                                "deptName": "济南华山专卖",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90597813",
+                                "deptName": "济大华联专厅",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90650938",
+                                "deptName": "济南缤纷五洲专厅",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90871854",
+                                "deptName": "济南新华联专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90685736",
+                                "deptName": "济南燕山银座专厅",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90674715",
+                                "deptName": "济南大观园商城专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90852788",
+                                "deptName": "济南嘉华专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "97119195",
+                                "deptName": "济南西市场专卖",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "103482880",
+                                "deptName": "济南泺安路太平洋店铺",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "111850331",
+                                "deptName": "济南文化东路专卖",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "118943858",
+                                "deptName": "济南堤口路专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "130786186",
+                                "deptName": "济南二环东银座奥特莱斯",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90674717",
+                                "deptName": "济宁金乡贵和专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90636792",
+                                "deptName": "济宁金乡中心街专卖",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90839757",
+                                "deptName": "济宁兖州贵和专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90798791",
+                                "deptName": "聊城阳谷利客来专卖",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90827670",
+                                "deptName": "聊城国贸专卖",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "129292031",
+                                "deptName": "聊城奥特莱斯专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "132356410",
+                                "deptName": "聊城万达专厅",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90638885",
+                                "deptName": "菏泽步行街专卖",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90874727",
+                                "deptName": "菏泽东方红专卖",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "129819551",
+                                "deptName": "菏泽庄寨专卖",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90886733",
+                                "deptName": "淄博周村银座专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90664742",
+                                "deptName": "淄博淄川银座专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90597818",
+                                "deptName": "淄博张店美食街专卖",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "111560744",
+                                "deptName": "淄博铝城购物中心专卖",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90646696",
+                                "deptName": "东营西城百大专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "130128612",
+                                "deptName": "东营西城万达专厅",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90846810",
+                                "deptName": "东营利津银座专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90874733",
+                                "deptName": "东营利津百大专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90834795",
+                                "deptName": "滨州邹平银座专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90600721",
+                                "deptName": "泰安财源街旗舰店专卖",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90735732",
+                                "deptName": "泰安奥特莱斯专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90834797",
+                                "deptName": "泰安中百专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90745801",
+                                "deptName": "泰安齐鲁银座专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90756722",
+                                "deptName": "泰安中心银座专柜",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "90799729",
+                                "deptName": "泰安大润发专厅",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "100623753",
+                                "deptName": "泰安宁阳银座专厅",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "135279921",
+                                "deptName": "泰安宝龙时代广场专卖",
+                                "pid": "69934105",
+                                "parentName": "山东终端",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "69988088",
+                        "deptName": "武汉终端",
+                        "pid": "67097525",
+                        "parentName": "唐狮终端",
+                        "children": [
+                            {
+                                "id": "70045128",
+                                "deptName": "武汉终端管理",
+                                "pid": "69988088",
+                                "parentName": "武汉终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "70051091",
+                                "deptName": "武汉终端员工",
+                                "pid": "69988088",
+                                "parentName": "武汉终端",
+                                "children": [
+                                    {
+                                        "id": "72014148",
+                                        "deptName": "1组",
+                                        "pid": "70051091",
+                                        "parentName": "武汉终端员工",
+                                        "children": [],
+                                        "expand": false
+                                    }
+                                ],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "70055110",
+                        "deptName": "杭州终端",
+                        "pid": "67097525",
+                        "parentName": "唐狮终端",
+                        "children": [
+                            {
+                                "id": "69871253",
+                                "deptName": "杭州终端管理",
+                                "pid": "70055110",
+                                "parentName": "杭州终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "69966082",
+                                "deptName": "杭州终端员工",
+                                "pid": "70055110",
+                                "parentName": "杭州终端",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "71524055",
+                        "deptName": "上海终端",
+                        "pid": "67097525",
+                        "parentName": "唐狮终端",
+                        "children": [
+                            {
+                                "id": "71365053",
+                                "deptName": "上海终端管理",
+                                "pid": "71524055",
+                                "parentName": "上海终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "71556032",
+                                "deptName": "上海终端员工",
+                                "pid": "71524055",
+                                "parentName": "上海终端",
+                                "children": [
+                                    {
+                                        "id": "72082212",
+                                        "deptName": "上海易初莲花专柜",
+                                        "pid": "71556032",
+                                        "parentName": "上海终端员工",
+                                        "children": [],
+                                        "expand": false
+                                    }
+                                ],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "74444447",
+                        "deptName": "北京终端",
+                        "pid": "67097525",
+                        "parentName": "唐狮终端",
+                        "children": [
+                            {
+                                "id": "74887412",
+                                "deptName": "北京终端员工",
+                                "pid": "74444447",
+                                "parentName": "北京终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "81796359",
+                                "deptName": "北京终端管理",
+                                "pid": "74444447",
+                                "parentName": "北京终端",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "74486423",
+                        "deptName": "西安终端",
+                        "pid": "67097525",
+                        "parentName": "唐狮终端",
+                        "children": [
+                            {
+                                "id": "74880339",
+                                "deptName": "西安终端管理",
+                                "pid": "74486423",
+                                "parentName": "西安终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "74896031",
+                                "deptName": "西安终端员工",
+                                "pid": "74486423",
+                                "parentName": "西安终端",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "74490380",
+                        "deptName": "温州终端",
+                        "pid": "67097525",
+                        "parentName": "唐狮终端",
+                        "children": [
+                            {
+                                "id": "74734421",
+                                "deptName": "温州终端管理",
+                                "pid": "74490380",
+                                "parentName": "温州终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "74773333",
+                                "deptName": "温州终端员工",
+                                "pid": "74490380",
+                                "parentName": "温州终端",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "74579382",
+                        "deptName": "江苏终端",
+                        "pid": "67097525",
+                        "parentName": "唐狮终端",
+                        "children": [
+                            {
+                                "id": "74806415",
+                                "deptName": "江苏终端管理",
+                                "pid": "74579382",
+                                "parentName": "江苏终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "74901025",
+                                "deptName": "江苏终端员工",
+                                "pid": "74579382",
+                                "parentName": "江苏终端",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "74744390",
+                        "deptName": "江西终端",
+                        "pid": "67097525",
+                        "parentName": "唐狮终端",
+                        "children": [
+                            {
+                                "id": "74478391",
+                                "deptName": "江西终端员工",
+                                "pid": "74744390",
+                                "parentName": "江西终端",
+                                "children": [
+                                    {
+                                        "id": "80602998",
+                                        "deptName": "赣州中联店",
+                                        "pid": "74478391",
+                                        "parentName": "江西终端员工",
+                                        "children": [],
+                                        "expand": false
+                                    },
+                                    {
+                                        "id": "80766005",
+                                        "deptName": "上饶旗舰店",
+                                        "pid": "74478391",
+                                        "parentName": "江西终端员工",
+                                        "children": [],
+                                        "expand": false
+                                    },
+                                    {
+                                        "id": "80766006",
+                                        "deptName": "上饶县店",
+                                        "pid": "74478391",
+                                        "parentName": "江西终端员工",
+                                        "children": [],
+                                        "expand": false
+                                    },
+                                    {
+                                        "id": "80766007",
+                                        "deptName": "九江大中路店",
+                                        "pid": "74478391",
+                                        "parentName": "江西终端员工",
+                                        "children": [],
+                                        "expand": false
+                                    },
+                                    {
+                                        "id": "80766009",
+                                        "deptName": "九江天禧店",
+                                        "pid": "74478391",
+                                        "parentName": "江西终端员工",
+                                        "children": [],
+                                        "expand": false
+                                    }
+                                ],
+                                "expand": false
+                            },
+                            {
+                                "id": "74904019",
+                                "deptName": "江西终端管理",
+                                "pid": "74744390",
+                                "parentName": "江西终端",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "74769403",
+                        "deptName": "成都终端",
+                        "pid": "67097525",
+                        "parentName": "唐狮终端",
+                        "children": [
+                            {
+                                "id": "74687428",
+                                "deptName": "成都终端员工",
+                                "pid": "74769403",
+                                "parentName": "成都终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "74756358",
+                                "deptName": "成都终端管理",
+                                "pid": "74769403",
+                                "parentName": "成都终端",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "74784397",
+                        "deptName": "天津终端",
+                        "pid": "67097525",
+                        "parentName": "唐狮终端",
+                        "children": [
+                            {
+                                "id": "74611436",
+                                "deptName": "天津终端管理",
+                                "pid": "74784397",
+                                "parentName": "天津终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "74791348",
+                                "deptName": "天津终端员工",
+                                "pid": "74784397",
+                                "parentName": "天津终端",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    },
+                    {
+                        "id": "133847751",
+                        "deptName": "DESSO终端",
+                        "pid": "67097525",
+                        "parentName": "唐狮终端",
+                        "children": [
+                            {
+                                "id": "133806882",
+                                "deptName": "DESSO终端管理",
+                                "pid": "133847751",
+                                "parentName": "DESSO终端",
+                                "children": [],
+                                "expand": false
+                            },
+                            {
+                                "id": "133869755",
+                                "deptName": "DESSO终端员工",
+                                "pid": "133847751",
+                                "parentName": "DESSO终端",
+                                "children": [],
+                                "expand": false
+                            }
+                        ],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "89275171",
+                "deptName": "唐狮加盟",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "88999149",
+                        "deptName": "安徽代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "89092187",
+                        "deptName": "云南代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "92635060",
+                        "deptName": "扬州代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "93176463",
+                        "deptName": "黑龙江代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "93181441",
+                        "deptName": "新疆代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "93196436",
+                        "deptName": "宁夏代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "94044367",
+                        "deptName": "吉林代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "94305413",
+                        "deptName": "河北代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "94421386",
+                        "deptName": "常州代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "94536358",
+                        "deptName": "山西代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "95443490",
+                        "deptName": "河南代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "97754045",
+                        "deptName": "北京代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "97766029",
+                        "deptName": "德州代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "97783040",
+                        "deptName": "临沂代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "97904026",
+                        "deptName": "潍坊代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "98644205",
+                        "deptName": "辽宁代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "102033314",
+                        "deptName": "海南代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "102901001",
+                        "deptName": "昆山代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "107128375",
+                        "deptName": "吴江代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "113798749",
+                        "deptName": "宿迁代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "140977387",
+                        "deptName": "淄博加盟",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    },
+                    {
+                        "id": "144073506",
+                        "deptName": "金华代理",
+                        "pid": "89275171",
+                        "parentName": "唐狮加盟",
+                        "children": [],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "115271688",
+                "deptName": "唐瑞服饰",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [
+                    {
+                        "id": "121053052",
+                        "deptName": "广州唐瑞创意设计部",
+                        "pid": "115271688",
+                        "parentName": "唐瑞服饰",
+                        "children": [],
+                        "expand": false
+                    }
+                ],
+                "expand": false
+            },
+            {
+                "id": "128154517",
+                "deptName": "东瑞服饰",
+                "pid": "1",
+                "parentName": "宁波博洋服饰集团有限公司",
+                "children": [],
+                "expand": false
+            }
+        ],
+        "expand": true
+    }
+}
