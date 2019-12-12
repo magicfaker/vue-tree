@@ -1,47 +1,22 @@
 <template>
   <div class="container">
     <h1 class="head">博洋服饰组织架构</h1>
-    <el-button type="primary" @click="down()" class="download">下载excel</el-button>
-    <el-button type="primary" @click="log"  class="Journal">查看日志</el-button>
-    <el-button type="primary" @click="extable"  class="extable">excel表格</el-button>
-    <!-- <el-table
-      :data="listLog"
-      style="width: 100%">
-      <el-table-column
-        prop="id"
-        label="日期"
-        width="180">
-      </el-table-column>
-      <el-table-column
-        prop="appType"
-        label="姓名"
-        width="180">
-      </el-table-column>
-      <el-table-column
-        prop="appDetail"
-        label="地址">
-      </el-table-column>
-    </el-table>-->
+    <el-button type="primary" plain @click="down()" class="download">excel下载</el-button>
+    <el-button type="primary" plain @click="log" class="Journal">查看日志</el-button>
+    <el-button type="primary" plain @click="extable" class="extable">表格</el-button>
     <div class="col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
           <form class="form-horizontal row">
             <div class="col-md-4">
-              <el-input v-model="inputvalue" size="small" class="search" placeholder="请输入内容"></el-input>
-              <el-button type="small" @click="search(inputvalue)">搜索</el-button>
+              <el-input v-model="inputvalue" class="search" placeholder="请输入内容"></el-input>
+              <el-button type="primary" @click="search(inputvalue)">搜索</el-button>
               <div class="checkbox">
                 <label>
                   <el-switch v-model="horizontal" active-text="水平" inactive-text="垂直"></el-switch>
                 </label>
               </div>
             </div>
-            <!-- <div class="col-md-4">
-              <div class="checkbox">
-                <label>
-                  <el-switch v-model="collapsable" active-text="预览" inactive-text="操作"></el-switch>
-                </label>
-              </div>
-            </div>-->
             <div class="col-md-4">
               <div class="checkbox">
                 <label>
@@ -54,23 +29,6 @@
                 </label>
               </div>
             </div>
-            <!-- 主题 -->
-            <!-- <div class="col-md-6">
-                <div class="form-group">
-                  <label class="control-label col-md-5">labelClassName:</label>
-                  <div class="col-md-7">
-                    <select class="form-control" v-model="labelClassName">
-                      <option value="bg-white">bg-white</option>
-                      <option value="bg-orange">bg-orange</option>
-                      <option value="bg-gold">bg-gold</option>
-                      <option value="bg-gray">bg-gray</option>
-                      <option value="bg-lightpink">bg-lightpink</option>
-                      <option value="bg-chocolate">bg-chocolate</option>
-                      <option value="bg-tomato">bg-tomato</option>
-                    </select>
-                  </div>
-                </div>
-            </div>-->
           </form>
         </div>
       </div>
@@ -113,13 +71,13 @@ export default {
   },
   created() {
     this.getListData();
-   
   },
   methods: {
     search(value) {
       let pathList = treeFindPath(this.data.children, data =>
         data.deptName.includes(value)
       );
+      console.log(pathList)
       pathList.forEach(list => {
         list.forEach(node => this.$set(node, "expand", true));
       });
@@ -133,6 +91,7 @@ export default {
         return result;
       }
     },
+    // 搜索高亮设置
     labelClass(data) {
       if (this.inputvalue == "") {
         return "";
@@ -143,12 +102,14 @@ export default {
     //拉取初始结构树数据
     getListData() {
       var that = this;
-      axios.get("http://20.28.10.111:8883/organizational/orgDept/getDeptData").then(res => {
-        that.data = res.data.data;
-        console.log(that.data, 1);
-      });
+      axios
+        .get("http://115.238.142.66:8882/organizational/orgDept/getDeptData")
+        .then(res => {
+          that.data = res.data.data;
+          console.log(that.data, 1);
+        });
     },
-   
+
     // 查看日志弹窗
     log() {
       this.$router.push("log");
@@ -159,7 +120,7 @@ export default {
     //excel下载接口调用
     down() {
       axios
-        .get("http://20.28.10.111:8883/organizational/orgDept/downloadExcel", {
+        .get("http://115.238.142.66:8882/organizational/orgDept/downloadExcel", {
           responseType: "blob"
         })
         .then(res => {
@@ -235,31 +196,6 @@ export default {
 </script>
 
 <style scoped lang="less">
-.org-tree-node-label {
-  white-space: nowrap;
-}
-/deep/ .bg-white {
-  background-color: #a7b6d7;
-}
-/deep/ .bg-orange {
-  background-color: orange;
-}
-/deep/ .bg-gold {
-  background-color: gold;
-}
-/deep/ .bg-gray {
-  background-color: gray;
-}
-/deep/ .bg-lightpink {
-  background-color: lightpink;
-}
-/deep/ .bg-chocolate {
-  background-color: chocolate;
-}
-/deep/ .bg-tomato {
-  background-color: tomato;
-}
-
 /deep/ .highlight {
   color: #fff;
   background: orange !important;
@@ -272,26 +208,22 @@ export default {
     padding: 0 0 15px 20px;
   }
   .download {
-    position: absolute;
-    top: 20px;
+    position: fixed;
+    top: 15px;
     right: 20px;
   }
   .Journal {
-    position: absolute;
-    top: 20px;
+    position: fixed;
+    top: 15px;
     right: 150px;
   }
-   .extable {
-    position: absolute;
-    top: 20px;
+  .extable {
+    position: fixed;
+    top: 15px;
     right: 280px;
   }
   /deep/ .org-tree-node-label .org-tree-node-label-inner {
     background: #a7b6d7;
-    span {
-      display: inline-block;
-      color: red;
-    }
   }
   /deep/ .form-horizontal {
     text-align: left;
